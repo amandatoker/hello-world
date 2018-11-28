@@ -4,3 +4,5 @@ This is a message for commit changes
 Another message 
 Making changes 
 another repositiry
+editing this
+making a repository
